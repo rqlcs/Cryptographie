@@ -1,4 +1,4 @@
-# Projet DEV Vernam - Lucas Requena, Groupe 4 BUT1INFO
+# Projet DEV Vernam - Groupe 4 BUT1INFO
 
 <br>
 <p align="center">
